@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605039105 source:c:\users\moham\desktop\task-3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<chrono>
+	<math.h>
+
